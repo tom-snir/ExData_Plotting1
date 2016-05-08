@@ -8,7 +8,7 @@ I created 4 R scripts, each aimed to create one of the 4 plots required for this
 
 Each script will:
 
-1) load the data and format the date variable --
+1) load the data and format the date variable \s
 2) subset the relevant section of the data
 3) convert the date variable to the appropriate format
 4) create the relevant plot
